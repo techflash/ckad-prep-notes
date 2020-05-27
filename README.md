@@ -1,3 +1,5 @@
+**Author**: ```Suni Vishwakarma```
+
 # ckad-prep-notes
 List of resources and notes for passing the Certified Kubernetes Application Developer (CKAD) exam. Official links below.
 
@@ -11,7 +13,7 @@ List of resources and notes for passing the Certified Kubernetes Application Dev
 
 
 ## Current Kubernetes Version (EXAM)
-Version: 1.14
+Version: 1.17
 
 ## Important vi Tips
 
