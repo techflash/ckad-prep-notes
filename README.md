@@ -1,4 +1,4 @@
-**Author**: ```Suni Vishwakarma```
+**Author**: ```Sunil Vishwakarma```
 
 # ckad-prep-notes
 List of resources and notes for passing the Certified Kubernetes Application Developer (CKAD) exam. Official links below.
